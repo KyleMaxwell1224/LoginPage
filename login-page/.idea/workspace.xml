@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efd381a3-da70-455a-af49-12392fd4cf69" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/frontend/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/frontend/register-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/register-form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/frontend/styles/README" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/styles/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/frontend/styles/shared-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/styles/shared-styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/frontend/styles/vaadin-text-field-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/styles/vaadin-text-field-styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/frontend/views/README" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/views/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/org/passay/annotations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/org/passay/annotations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/src/main/java/com/packagename/CCE/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/src/main/java/com/packagename/CCE/LoginView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/src/main/java/com/packagename/CCE/RegisterForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/src/main/java/com/packagename/CCE/SuccessView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/src/main/java/com/packagename/CCE/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/src/main/resources/META-INF/resources/icons/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/resources/icons/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/src/test/java/com/packagename/CCE/AbstractViewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/packagename/CCE/AbstractViewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/src/test/java/com/packagename/CCE/MainViewIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/packagename/CCE/MainViewIT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/src/test/java/com/packagename/myapp/AbstractViewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/packagename/myapp/AbstractViewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/src/test/java/com/packagename/myapp/MainViewIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/packagename/myapp/MainViewIT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cyber-crucible-exercise/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ajMWtLfLfmULFSKezvgx7z57Jz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle help --scan" />
+      <command value="gradle -version" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="C:/Users/Kyle/Desktop/login-page [help]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--scan" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="help" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/Kyle/Desktop/login-page" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="-version" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="login-page" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.packagename.CCE.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.C:/Users/Kyle/Desktop/login-page" />
+        <item itemvalue="Gradle.C:/Users/Kyle/Desktop/login-page [help]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efd381a3-da70-455a-af49-12392fd4cf69" name="Default Changelist" comment="" />
+      <created>1587244584215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587244584215</updated>
+      <workItem from="1587244589454" duration="472000" />
+      <workItem from="1587245085032" duration="643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587245058034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587245058034" />
+    <state x="689" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587245056849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587245056849" />
+    <state x="761" y="332" key="FileChooserDialogImpl" timestamp="1587245567903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="332" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587245567903" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1587245728057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587245728057" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1587245728057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587245728057" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1587245728057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587245728057" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1587245728057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587245728057" />
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom" timestamp="1587245728058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587245728058" />
+    <state width="1877" height="282" key="GridCell.Tab.1.center" timestamp="1587245728057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587245728057" />
+    <state width="1877" height="282" key="GridCell.Tab.1.left" timestamp="1587245728057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587245728057" />
+    <state width="1877" height="282" key="GridCell.Tab.1.right" timestamp="1587245728057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587245728057" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1587245578343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587245578343" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1587245677914">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587245677914" />
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+</project>
