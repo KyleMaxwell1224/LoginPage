@@ -1,0 +1,7 @@
+<root>
+    <item name='org.passay.CharacterCharacteristicsRule java.util.List&lt;org.passay.CharacterRule&gt; getRules()'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>
